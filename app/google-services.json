@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "660108789387",
+    "firebase_url": "https://aroundu-da406.firebaseio.com",
+    "project_id": "aroundu-da406",
+    "storage_bucket": "aroundu-da406.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660108789387:android:4dc6ee297aad270a",
+        "android_client_info": {
+          "package_name": "com.mytechwall.aroundu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "660108789387-e5vr85nt3pe8o4deuv7jseev11a12c3q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByVdVr-9ktMiuQ8E8SM01gX_vC31aQ0RE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
