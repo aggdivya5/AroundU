@@ -56,7 +56,7 @@ public class FullscreenSplashActivity extends AppCompatActivity implements
                 .build();
 
         mGoogleApiClient = new GoogleApiClient.Builder(this)
-                .enableAutoManage(this /* FragmentActivity */, this /* OnConnectionFailedListener */)
+                .enableAutoManage(this /* FragmentActivity */, this )
                 .addApi(Auth.GOOGLE_SIGN_IN_API, gso)
                 .build();
 
